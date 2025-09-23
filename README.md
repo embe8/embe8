@@ -1,6 +1,3 @@
-<!--
-**embe8/embe8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Erika 😄
 
 I'm a recent CS grad with a passion for solving problems, building responsive applications, and learning more about programming and CS concepts.
