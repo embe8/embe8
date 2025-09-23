@@ -10,7 +10,7 @@ I'm a recent CS grad with a passion for solving problems, building responsive ap
 - Others: JIRA, Scrum, Docker
 
 ## 🚀 Projects
-- [React Web Chat Application](https://github.com/embe8/React-ChatApp)
+- [React Web Chat Application](https://github.com/embe8/react-chatApp)
 
 ## 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/eebon)
