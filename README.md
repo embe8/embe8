@@ -3,7 +3,7 @@
 I'm a recent CS grad with a passion for solving problems, building responsive applications, and learning more about programming and CS concepts. I'm currently working on an Automobile builder to extend the relational database project I created for my Database Fundamentals class by adding a front-end component (React web application).
 
 ## 🛠️ Skills/Tech Stack
-- Frontend: HTML, CSS, Sass, and currently learning React
+- Frontend: HTML, CSS, and currently learning React
 - Backend: Flask, and currently learning Node.js
 - Database: PostgreSQL and currently learning Firebase
 - Tools: Git, GitHub, VS Code, PyCharm, DataGrip
