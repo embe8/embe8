@@ -12,6 +12,7 @@ I'm a recent CS grad with a passion for solving problems, building responsive ap
 
 ## 🚀 Projects
 - [React Web Chat Application](https://github.com/embe8/react-chatApp)
+- [React Automobile Builder Web Application](https://github.com/embe8/car-builder-app)
 
 ## 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/eebon)
