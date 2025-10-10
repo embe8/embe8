@@ -6,7 +6,7 @@ I'm a recent CS grad with a passion for solving problems, building responsive ap
 - Frontend: HTML, CSS, and currently learning React
 - Backend: Python (Flask), and currently learning JavaScript (Node.js)
 - Database: PostgreSQL and currently learning Firebase
-- Tools: GitHub, VS Code, PyCharm, DataGrip
+- Tools: Git, VS Code, PyCharm, DataGrip
 - Others: JIRA, Scrum
 
 
