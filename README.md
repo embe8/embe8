@@ -3,8 +3,8 @@
 I'm a recent CS grad with a passion for solving problems, building responsive applications, and learning more about programming and CS concepts.
 
 ## 🛠️ Skills/Tech Stack
-- Frontend: HTML, CSS, and currently learning React
-- Backend: Python (Flask), and currently learning JavaScript (Node.js)
+- Frontend: HTML, CSS, React
+- Backend: Python (Flask), JavaScript (Node.js)
 - Database: PostgreSQL and currently learning Firebase
 - Tools: Git, VS Code, PyCharm, DataGrip
 - Others: JIRA, Scrum
