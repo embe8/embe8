@@ -11,8 +11,8 @@ I'm a recent CS grad with a passion for building responsive applications, solvin
 
 
 ## 🚀 Projects
-- [React Web Chat Application](https://github.com/embe8/react-chatApp)
-- [React Automobile Builder Web Application](https://github.com/embe8/car-builder-app)
+- [React Web Chat Application](https://github.com/embe8/react-chatApp) - working on deploying this
+- [React Automobile Builder Web Application](https://car-builder-app-v2-git-main-embes-projects.vercel.app?_vercel_share=NN4k8eW2XYUtkFLLWsDfxwLmIyOBHJfv) - click to see deployed app
 
 ## 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/eebon)
