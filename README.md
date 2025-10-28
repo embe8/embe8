@@ -1,6 +1,6 @@
 # Hi, I'm Erika 😄
 
-I'm a recent CS grad with a passion for building responsive applications, solving problems, and learning more about programming and CS concepts.
+I'm a recent CS grad with a passion for building responsive applications and using programming/CS to solve problems.
 
 ## 🛠️ Skills
 - Frontend: HTML, CSS, React
