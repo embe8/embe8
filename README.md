@@ -1,4 +1,4 @@
-# Hi, I'm Erika 😄
+# Hi, I'm Erika
 
 I'm a recent CS grad with a passion for building responsive applications and using programming/CS to solve problems.
 
