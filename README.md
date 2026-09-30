@@ -12,5 +12,5 @@ I'm a recent CS grad with a passion for problem solving, building responsive app
 
 ## 🚀 Projects
 - [React Web Chat Application](https://www.capy-chat.eebon.com/) - click to see deployed app
-- [React Automobile Builder Web Application](https://auto-builder.eebon.com/) - click to see deployed app
+- [React Automobile Builder Web Application](https://car-builder-app-v2.vercel.app/) - click to see deployed app
 
